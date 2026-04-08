@@ -29,8 +29,9 @@ K72 is a Montreal-based branding agency known for its striking visual identity â
 | React | Component-based UI |
 | Vite | Build tool & dev server |
 | JavaScript (ES6+) | Logic & interactivity |
-| HTML5 | Markup |
-| CSS3 | Styling |
+| Tailwind CSS | Utility-first styling |
+| GSAP | Animations & transitions |
+| Locomotive Scroll | Smooth scrolling |
 
 ---
 
